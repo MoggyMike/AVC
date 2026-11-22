@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Overworld","order":1,"parentId":0,"scrollX":973.1999999999999,"scrollY":663.6},
-{"id":2,"expanded":true,"name":"Town","order":2,"parentId":1,"scrollX":1145,"scrollY":1490},
+{"id":2,"expanded":true,"name":"Town","order":2,"parentId":1,"scrollX":811,"scrollY":991},
 {"id":3,"expanded":true,"name":"Forest Enterance","order":9,"parentId":1,"scrollX":811,"scrollY":911},
 {"id":4,"expanded":true,"name":"Forest Path 1","order":10,"parentId":3,"scrollX":811,"scrollY":481},
 {"id":5,"expanded":false,"name":"Side Path 1","order":11,"parentId":4,"scrollX":811,"scrollY":1103},
